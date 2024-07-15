@@ -1,0 +1,28 @@
+.Header{
+    background:#222;
+    height:60px;
+    padding: 10px 32px 8px 16px;
+}
+.heading{
+
+        background-color:#ff9999;
+        text-align: center;
+        margin-top: 0px;
+        padding: 8px;
+        font-size: 1rem;
+        margin-bottom: 20px;
+}
+.logo{
+    background-color: #ff7f7f;
+    height: 35px;
+    text-align: left;
+
+    animation: rotation 8s infinite linear;
+    }
+    
+    @keyframes rotation {
+        
+        100% {
+            transform: rotate(360deg);
+        }
+    }

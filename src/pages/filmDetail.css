@@ -1,0 +1,20 @@
+.movieName{
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+/* .film-detail-container {
+    padding: 16px;
+} */
+
+.detail-label {
+    font-weight: 600;
+    margin-right: 8px;
+    font-size: 16px;
+}
+
+.detail-value {
+    margin-bottom: 6px;
+    font-size: 12px;
+}

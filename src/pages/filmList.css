@@ -1,0 +1,21 @@
+.movie-card{
+    background-color: #ffffff;
+}
+.image{
+    height: 400px;
+    border-radius: 5px !important;
+}
+.ant-card-body{
+    padding: 0px !important;
+}
+.image-wrapper {
+  position: relative;
+}
+
+.pin-icon {
+  position: absolute;
+  top: 8px;
+  right: 20px;
+  font-size: 20px;
+  color: #fff;
+}
